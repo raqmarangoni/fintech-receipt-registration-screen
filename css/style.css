@@ -18,3 +18,12 @@ body {
     width: 100%;
   }
   
+  .btn-salvar {
+    background-color: #700000;
+    color: white;
+    border: none;
+  }
+  
+  .btn-salvar:hover {
+    background-color: #550000;
+  }
